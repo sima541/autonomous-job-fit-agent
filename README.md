@@ -30,22 +30,49 @@ Pure keyword matching (TF-IDF) misses synonyms ("ML" vs "Machine Learning"). Pur
 - **Config:** python-dotenv for secrets management
 
 ## 📂 Project Structure
+## 📂 Project Structure
 
+```
+autonomous-job-fit-agent/
+│
 ├── src/
-│ ├── job_fit_agent.py # Main agent (class-based orchestrator)
-│ ├── app.py # Streamlit UI
-│ ├── skills.py # Multi-branch skill extraction + F1 overlap scoring
-│ ├── fetch_jobs.py # Adzuna API integration
-│ ├── government_jobs.py # Curated government jobs loader
-│ ├── sector_tagger.py # Govt/Private sector detection
-│ ├── chance_score.py # Realistic Chance Score heuristic
-│ ├── outcome_tracker.py # Application logging
-│ └── resume_reader.py # PDF/DOCX/TXT parsing
+│   ├── job_fit_agent.py       # Main agent — JobFitAgent class, orchestrates the full pipeline
+│   ├── app.py                  # Streamlit web UI (upload resume, pick branch, run agent)
+│   │
+│   ├── fetch_jobs.py           # Adzuna API integration — fetches live private-sector jobs
+│   ├── government_jobs.py      # Loads curated government job postings from CSV
+│   ├── sector_tagger.py        # Keyword-based Government/Private sector detection
+│   │
+│   ├── skills.py               # Multi-branch skill lists + extraction + F1 overlap scoring
+│   ├── chance_score.py         # Realistic Chance Score (match score × competition heuristic)
+│   ├── resume_reader.py        # Parses uploaded PDF / DOCX / TXT resumes
+│   ├── outcome_tracker.py      # Logs applications + tracks outcomes (Applied/Interviewed/etc.)
+│   │
+│   ├── evaluate.py             # Validates scoring against manually-labeled ground truth
+│   ├── rank_jobs.py            # Standalone script: fetch + score + rank (CLI version)
+│   ├── daily_digest.py         # Standalone script: daily top-matches summary
+│   ├── embeddings.py           # Embedding-based matching + Smart Resume Router experiments
+│   ├── preprocess.py           # Early text-cleaning + TF-IDF baseline (kept for reference)
+│   └── test_civil.py           # Quick test script for Civil-branch skill matching
+│
 ├── data/
-│ ├── government_jobs.csv
-│ ├── ground_truth.csv # Manually labeled validation set
-│ └── ...
-└── requirements.txt
+│   ├── my_resume.txt           # Primary resume used for matching
+│   ├── resume_ds.txt           # Data-Science-focused resume version
+│   ├── resume_sde.txt          # SDE/Full-Stack-focused resume version
+│   ├── resume_civil.txt        # Sample Civil-branch resume (for multi-branch testing)
+│   │
+│   ├── government_jobs.csv     # 20 curated real government job postings (multi-branch)
+│   ├── ground_truth.csv        # Manually labeled resume-job pairs (Good/Average/Bad Fit)
+│   ├── applications_log.csv    # Application tracking log (auto-updated by outcome_tracker.py)
+│   │
+│   ├── job_1.txt … job_7.txt          # Ground-truth job description files
+│   └── fetched_job_1.txt … _10.txt    # Auto-fetched job descriptions (overwritten each run)
+│
+├── .env                        # Adzuna API credentials (not committed — see .gitignore)
+├── .gitignore                  # Excludes .env, venv/, __pycache__/
+├── requirements.txt            # Python dependencies
+└── README.md
+```
 
 
 ## ⚠️ Honest Limitations
