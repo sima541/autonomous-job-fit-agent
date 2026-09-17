@@ -1,0 +1,17 @@
+About the job
+🚀 Hiring: MERN Stack Developer | 5–6 Years | Bangalore
+We're looking for a MERN Stack Developer with strong hands-on experience in modern JavaScript development and Microservices.
+📍 Location: Bangalore💼 Experience: 5–6 Years⏰ Shift: 2:00 PM – 11:00 PM IST
+Mandatory Skills
+React.js
+Node.js
+MongoDB
+Express.js
+ Microservices
+
+🎯 We're Looking For
+Hands-on experience with the MERN Stack
+Strong experience building REST APIs and Microservices
+Good understanding of scalable application development
+
+Immediate or early joiners preferred

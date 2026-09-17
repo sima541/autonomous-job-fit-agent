@@ -1,0 +1,21 @@
+job_id,job_title,department,branch,qualification,description
+101,SSC JE (Civil),SSC,Civil,Diploma/Degree in Civil Engineering,Junior Engineer recruitment for civil works including site supervision quantity surveying structural design and construction management
+102,SSC JE (Mechanical),SSC,Mechanical,Diploma/Degree in Mechanical Engineering,Junior Engineer recruitment for mechanical maintenance thermodynamics machine design and quality control
+103,RRB JE (Electrical),Railway,Electrical,Diploma/Degree in Electrical Engineering,Junior Engineer recruitment covering power systems circuit design and control systems
+104,SSC CGL (Data Entry Operator),SSC,IT/Computer,Bachelor Degree any stream with computer knowledge,Data entry operator role involving data processing record maintenance and basic computer applications typing speed required
+105,IBPS PO (Probationary Officer),Banking,General Banking,Bachelor Degree any stream,Probationary officer role covering banking operations customer service loan processing and branch management
+106,NIC Scientist B (Software),National Informatics Centre,IT/Software,BE/BTech/MCA in Computer Science or related field,Scientist B position for software development database management system design and government IT infrastructure projects using Java Python and SQL
+107,SSC CHSL (LDC),SSC,Clerical,12th pass,Lower Division Clerk role for data entry office correspondence and administrative tasks in government offices
+108,RRB NTPC (Station Master),Railway,Operations,Graduate in any discipline,Station master role responsible for train operations passenger safety and coordination with control room
+109,UPSC Combined Defence Services,UPSC,Defence,Bachelor Degree,Officer recruitment for Indian Army Navy and Air Force covering leadership physical training and strategic operations
+110,Bihar SSC Data Scientist,Bihar SSC,IT/Data Science,MCA/BTech Computer Science with Data Science background,Data scientist role for state government analytics involving machine learning model building data visualization and predictive analysis for public policy
+111,SSC Stenographer,SSC,Clerical,12th pass with stenography skills,Stenographer role for dictation typing and clerical support in central government departments
+112,RRB ALP (Assistant Loco Pilot),Railway,Technical,ITI/Diploma in relevant trade,Assistant Loco Pilot role for operating locomotives maintaining safety protocols and technical inspection of trains
+113,IB ACIO (Assistant Central Intelligence Officer),Intelligence Bureau,IT/Technical,Bachelor Degree in Computer Science or Engineering preferred,Assistant Central Intelligence Officer Technical role involving cybersecurity network monitoring and data analysis for national security
+114,SSC MTS (Multi Tasking Staff),SSC,General,10th pass,Multi tasking staff role for general office support cleaning and basic administrative duties
+115,State PSC Assistant Professor (Computer Science),State PSC,Education/IT,MTech/PhD in Computer Science,Assistant professor role for teaching computer science subjects conducting research and guiding student projects in machine learning and software engineering
+116,RRB Technician (Signal),Railway,Electronics,Diploma in Electronics/Telecommunication,Technician role for railway signaling systems maintenance troubleshooting and installation of electronic equipment
+117,SSC CGL (Junior Statistical Officer),SSC,Statistics,Bachelor Degree in Statistics/Mathematics,Junior statistical officer role involving data collection statistical analysis and report generation for government surveys
+118,Income Tax Inspector,SSC CGL,Finance,Bachelor Degree any stream,Income tax inspector role covering tax assessment auditing and compliance verification for individuals and businesses
+119,Software Developer (e-Governance),State IT Department,IT/Software,BTech/MCA in Computer Science,Software developer role for building e-governance applications using React Node.js and database management for citizen service portals
+120,SSC CPO (Sub Inspector),SSC,Police,Bachelor Degree any stream,Sub inspector role in central police organizations covering law enforcement investigation and field operations

@@ -1,0 +1,48 @@
+Sima Kumari
+Jharkhand
+ksimagupta123@gmail.com | 7710965258 | LeetCode | GeeksforGeeks | LinkedIn | GitHub
+
+Summary
+MCA graduate with hands-on experience in AI/ML integration and data-driven application development, gained through a Software Development Internship at CDAC Pune. Built ANUVAAD, a multilingual translation system leveraging AI/ML models (Sarvam AI, IndicTrans2, Google ML Kit) for language detection and translation. Skilled in Python, SQL, Scikit-learn, Pandas, and NumPy, with strong foundation in machine learning workflows, data preprocessing, and model integration into production systems.
+
+Education
+Master of Computer Applications (MCA) 2024 – 2026
+Tezpur University, CGPA: 7.84/10
+
+Bachelor of Computer Applications (BCA) 2021 – 2024
+St. Columba's College, Vinoba Bhave University, CGPA: 8.07/10
+
+Experience
+Software Development Intern — CDAC Pune | Feb 2026 – June 2026
+- Built ANUVAAD, a multilingual translation application integrating AI/ML models Sarvam AI and IndicTrans2 for automated language translation.
+- Implemented dual-mode architecture with automatic online/offline model switching using Google ML Kit for on-device inference.
+- Designed a custom Unicode-based language detection algorithm for Indian scripts, applying pattern recognition techniques.
+- Developed OCR and voice-based input pipelines for data extraction and preprocessing.
+
+MERN Stack Intern — Web Stack Academy | Sep 2025 – Nov 2025
+- Integrated REST APIs for data flow between frontend and backend systems.
+- Collaborated on application development using modern workflows and version control (Git).
+
+Technical Skills
+- Languages: Python, C++, SQL
+- ML & Data: Scikit-learn, Pandas, NumPy, Data Preprocessing, Feature Engineering
+- ML Tools/Concepts: Model Integration, Language Detection Algorithms, OCR-based Data Extraction
+- Database: MongoDB, DBMS
+- Core CS: Data Structures & Algorithms, OOPs
+- Tools: Git, GitHub, VS Code, Postman
+
+Projects
+Discover Jharkhand – Full Stack Web Application with AI-driven Recommendations
+- Developed a MERN-based tourism platform with AI-driven itinerary recommendation system.
+- Built modular architecture supporting data-driven personalization features.
+
+MoodWave – Mood-Based Music & Emoji Web App
+- Built a real-time facial expression recognition system using FaceAPI for emotion classification from live webcam feed.
+- Implemented mood-state detection logic to drive dynamic content recommendations, demonstrating applied ML inference in a production-like app.
+
+Certifications & Workshops
+- NPTEL – Industry 4.0 & IIoT (Elite, Top 5%)
+- NPTEL – Intellectual Property (Elite, Top 5%)
+- NPTEL – Joy of Computing using Python (Elite)
+- GFG 160 Days of DSA
+- Full Stack Developer Bootcamp — IDE Bootcamp (AICTE & MoE)

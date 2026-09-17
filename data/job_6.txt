@@ -1,0 +1,12 @@
+SDE Intern Rubrik
+Particulars	Details
+Company Name	Rubrik
+Job Roles	1. Software  Engineer – Winter Intern
+2. ENG Project/Program – Intern
+Target Audience	2027 Graduating Batch Only
+Eligible Branches	Circuital Branches Only (CS, IT, ECE, EEE, etc.)
+Academic Criteria	Strictly 8.0 CGPA and above
+Core Technical Skills	Java, C/C++, Python, SDLC, Agile, Cloud (AWS/Azure/GCP)
+Internship Duration	January 2027 to May 2027
+Job Location	Bangalore, Karnataka, India (Strictly Onsite)
+Last Date To Apply	ASAP (Apply Quickly)

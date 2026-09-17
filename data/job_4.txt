@@ -1,0 +1,11 @@
+ Software Developer
+ Algorithms • SQL and Database Concepts • REST APIs • Git Version Control • Software Development Life Cycle (SDLC)
+>
+> **Roles and Responsibilities:** • Develop, test, and maintain Python-based applications and scripts. • Participate in coding, debugging, and troubleshooting activities. • Assist in developing REST APIs and backend services. • Support automation and process improvement initiatives. • Work on data processing, reporting, and analytics solutions. • Participate in code reviews and follow coding standards. • Collaborate with cross-functional teams to understand requirements and deliver solutions. • Prepare technical documentation and project updates. • Learn and adopt emerging technologies, tools, and frameworks.
+>
+> **Preferred Competencies:** • Strong analytical and problem-solving skills. • Excellent communication and teamwork skills. • Eagerness to learn new technologies. • Ability to work in a collaborative and fast-paced environment. • Positive attitude and customer-centric mindset.
+>
+> **Management Level:** 12
+> **Work Experience:** >=12 Months
+> **Work location:** Bengaluru, BDC9A
+> **Must Have Skills:** Artificial Intelligence (AI)

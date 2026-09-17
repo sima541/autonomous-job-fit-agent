@@ -1,0 +1,23 @@
+
+Web developer
+About the job
+Company: CodeyoungExperience: 1-4 YearsLocation: Bangalore (Work From Office)Working Days: 5 Days a WeekAbout CodeyoungCodeyoung is a global EdTech company dedicated to transforming the learning experience for students through innovative technology. We are looking for a talented and passionate Full Stack Developer to build scalable, high-performance web applications and contribute to the development of cutting-edge educational products.Key Responsibilities
+Design, develop, test, and maintain scalable web applications.
+Build responsive and user-friendly front-end interfaces.
+Develop robust back-end services and RESTful APIs.
+Collaborate with product managers, designers, and QA engineers to deliver high-quality software.
+Optimize application performance, scalability, and security.
+Write clean, maintainable, and reusable code following industry best practices.
+Participate in code reviews and contribute to improving development processes.
+Troubleshoot, debug, and resolve production issues.
+Stay updated with emerging technologies and recommend improvements.
+Required Skills
+2+ years of hands-on experience as a Full Stack Developer.
+Strong proficiency in JavaScript and TypeScript.
+Experience with React.js, Next.js, or similar front-end frameworks.
+Strong knowledge of Node.js and Express.js for back-end development.
+Experience working with REST APIs and third-party integrations.
+Good understanding of HTML5, CSS3, and responsive web design.
+Experience with relational databases such as MySQL or PostgreSQL, and/or NoSQL databases like MongoDB.
+Familiarity with Git and version control workflows.
+Understanding of software development best practices, design patterns, and Agile methodologies.
