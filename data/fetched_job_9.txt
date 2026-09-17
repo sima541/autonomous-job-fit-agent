@@ -1,4 +1,4 @@
 Data Scientist
-JMAN Group
-https://www.adzuna.in/land/ad/5864424451?se=uhvb0FKw8RGNCI4LXswoCg&utm_medium=api&utm_source=a087a1c1&v=4765C550EC2DFCF6FB0F60B7255B5E673D8D098F
-ABOUT JMAN: JMAN Group is a growing technology-enabled management consultancy that empowers organizations to create value through data. Founded in 2010, we are a team of 600 consultants based in London, UK, and a team of 450 engineers in Chennai, India. Having delivered multiple projects in the US, we are now opening a new office in New York to help us support and grow our US client base. We approach business problems with the mindset of a management consultancy and the capabilities of a tech c…
+Systems Limited
+https://www.adzuna.in/land/ad/5870860105?se=NqJ9bYyy8RGPhZDySvILTw&utm_medium=api&utm_source=a087a1c1&v=041E8BBBEFDD78E4FECCEA865C56F5F540601DF7
+We are looking for an experienced Data Scientist to build, evaluate, and productionize predictive and intelligent models across ML, deep learning, NLP, and computer vision. The role focuses on developing production-ready models, maintaining statistical rigor, and translating insights into business outcomes. Responsibilities: Own model development, experimentation, evaluation, and production readiness. Develop forecasting, optimization, recommendation, decision-science, and ML models. Perform fe…

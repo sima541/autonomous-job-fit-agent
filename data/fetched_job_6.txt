@@ -1,4 +1,4 @@
 Data Scientist
-Hiringhood
-https://www.adzuna.in/land/ad/5864427682?se=uhvb0FKw8RGNCI4LXswoCg&utm_medium=api&utm_source=a087a1c1&v=1C50EEC55CEE8BFDBB368E5C49B48FB1B2D21F95
-Data Scientist – AI/ML & Identity Management Location: Hyderabad, India Experience: 7–15 years Employment Type: Full-time, Work from Office Role Overview We are looking for a Data Scientist with hands-on Python coding skills to develop and deploy AI/ML solutions for identity management. The role involves working with real-world identity data, developing NLP and name-matching algorithms, building ML models, and integrating them into production applications. The candidate will also be required to…
+InterEx Group
+https://www.adzuna.in/land/ad/5884641060?se=NqJ9bYyy8RGPhZDySvILTw&utm_medium=api&utm_source=a087a1c1&v=8CDC22CC1D25F167E965558F4C218D62CD3C8BD1
+Contract: Data Scientist – AI Agent Developer Length: Minimum 6 months, extended every 6 months Remote – India I’m currently working with a leading global technology organisation that is looking for an experienced Data Scientist / AI Agent Developer to join their team. The Role: Build and develop AI agents and LLM-powered solutions for production use cases. Work across agentic AI, prompt engineering, tool integration and AI evaluation . Integrate AI solutions with data platforms, APIs and cloud…

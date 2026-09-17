@@ -1,6 +1,9 @@
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st
 from job_fit_agent import JobFitAgent
 from resume_reader import extract_text_from_file
+
 
 # ── Page Config ──────────────────────────────────────────────
 st.set_page_config(page_title="Job-Fit Agent", layout="wide", page_icon="🎯")

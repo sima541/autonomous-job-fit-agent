@@ -1,4 +1,4 @@
 Data Scientist
-Sagility
-https://www.adzuna.in/land/ad/5864435531?se=uhvb0FKw8RGNCI4LXswoCg&utm_medium=api&utm_source=a087a1c1&v=56EDAAB519E1F3F0FB51D6AE8C400125C7135ABA
-Data Scientist - US healthcare Domain Location: Bangalore Experience: 6 Years Role Summary We are looking for an experienced Data Scientist with 6 years of experience in building data-driven solutions and delivering actionable business insights through Advanced Analytics, Machine Learning, and AI . The ideal candidate should have strong hands-on expertise in Python, SQL, Machine Learning, and US Healthcare , along with the ability to work closely with business stakeholders to understand require…
+Tata Consultancy Services
+https://www.adzuna.in/land/ad/5876016078?se=NqJ9bYyy8RGPhZDySvILTw&utm_medium=api&utm_source=a087a1c1&v=076A6D8BF6D1FAB77910335EA1D3406F73F06FDC
+Role  Data Scientist Required Technical Skill Set Good understanding of machine learning including with extensive hands-on experience in model building using libraries like scikit-learn etc. Knowledge of data management and visualization techniques Ability to do data analysis using Python A knack for statistical analysis and predictive modeling Good knowledge of Python Experience with SQL Good communication skills. Good analytical and problem-solving skills Desired Competencies (Technical/Behav…
